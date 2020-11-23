@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Between the stars</string>
+    <string name="score"> Your score: %d</string>
+</resources>
